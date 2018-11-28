@@ -1,4 +1,3 @@
-#!/afs/rchland.ibm.com/usr6/sunilmam/sandbox/apollodev/src/aipl/x86/snmp_pdureset/snmp_pduonoff/bin/python
 
 from pysnmp.hlapi import *
 from pysnmp.error import PySnmpError
